@@ -4,25 +4,31 @@ This folder contains additional packages for Silica. Ideally, you would use the 
 
 ## How to Import Additional Software
 
-You can import additional Silica software by two ways (Silica only supports the second):
+### For Silica
 
-### With `addit`
+You can import additional Silica software via `spradd`.
 
-If you already have `addit`/`binaddit` installed, you can simply run:
+1. Open `sish`.
+2. Run the `addsprite` command, and import your `.pms` sprite file via the file picker.
+3. Hit `y` and the enter key, and wait for `spradd` to add the sprite you imported.
+4. **You're done!**
 
-```text
-addit
-```
+If you don't have `spradd` installed, use Kamix 1.x's method.
 
-in `ksh`, import your `.pms` file, and the sprite will be imported. Note that some additional packages require a reboot to take effect.
+### For Kamix 2.x
 
-### Manual (PenguinMod Editor)
+If you have `addit` installed, it's pretty much the same as `spradd`, just different prompts. If you don't have `addit` installed, use Kamix 1.x's method.
+
+### For Kamix 1.x
 
 > [!IMPORTANT]
->
-> It is generally recommended to use `addit` to import additional packages on Kamix. If your package needs to be imported with this method (or you are importing `addit`/using Silica), then you can safely use it.
+> 
+> Kamix 1.x is considered **legacy software**. [Learn more](https://sites.google.com/view/kamixkernel)
 
-1. Open your Kamix installation `.pmp` file into the [PenguinMod editor](https://studio.penguinmod.com/editor.html).
-2. Click "See inside".
-3. Import your sprite (`.sprite3` or `.pms`).
-4. You're done!
+1. Open your installation in the PenguinMod editor.
+2. Drag your `.pms` sprite into the sprite area.
+3. **You're done!**
+
+> [!TIP]
+> 
+> This method does not work in packaged environments (like HTML/EXE versions).
