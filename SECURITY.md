@@ -4,7 +4,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v0.x.x  | &check:            |
+| v0.x.x  | &check;            |
 
 ## Reporting a Vulnerability
 
