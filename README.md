@@ -1,19 +1,19 @@
 <h1>
-  <img src="./assets/icon.svg" alt="Kamix project icon" width="30" style="vertical-align: middle;">
-  The Kamix microkernel
+  <img src="./assets/icon.svg" alt="Silica project icon" width="30" style="vertical-align: middle;">
+  The Silica microkernel
 </h1>
 
-> A stable, service-based microkernel developed in PenguinMod with a focus on usability and speed. You can add or code anything for it!
+> A stable, IPC-based kernel developed completely in PenguinMod, with a suite of custom extensions developed by KaneBuilt and a dead-simple coding workflow.
 
 ## Key Features
 
-- **Simple:** You don't have to learn complex IPC (Inter-Process Communication) standards to code additional Kamix software. You can just code ordinary Scratch, no syscalls needed.
-- **Flexible:** Instead of a built-in VFS, forcing you to use a certain standard to store things, Kamix comes with its own key-value store (which you can manipulate with its various libraries).
-- **Extensible:** Kamix is built for additional software, libraries, and extensions. Build your Kamix distro **today**!
+- **Simple:** IPC (Inter-Process Communication) is simple with Silica, you don't have to learn complex standards to code additional Silica software. You can just code ordinary Scratch.
+- **Flexible:** Instead of a built-in VFS, forcing you to use a certain standard to store things, Silica comes with its own key-value store (which you can manipulate with its various libraries).
+- **Extensible:** Silica is built for additional software, libraries, and extensions. Build your Silica distro **today**!
 
 ## How to Install
 
-No installation steps are needed, Kamix is a PenguinMod project.
+No installation steps are needed, Silica is a PenguinMod project.
 
 ## Documentation
 

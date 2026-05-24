@@ -1,5 +1,5 @@
-<!-- You might want to use the Find & Replace tool in your editor to replace all mentions of "Kamix" (match caps) with your project's name. -->
+<!-- You might want to use the Find & Replace tool in your editor to replace all mentions of "Silica" (match caps) with your project's name. -->
 
-# Contributing to Kamix
+# Contributing to Silica
 
-Contact the developers of Kamix in the [Kamix Discord server](https://discord.gg/2waSz5YCjw), as contributing to PenguinMod projects, which is what Kamix is, is impossible with GitHub because they are binary files.
+Contact the developers of Silica in the [Silica Discord server](https://discord.gg/2waSz5YCjw), as contributing to PenguinMod projects, which is what Silica is, is impossible with GitHub because they are binary files.
